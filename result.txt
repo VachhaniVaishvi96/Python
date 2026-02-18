@@ -1,0 +1,15 @@
+Roll No: 101
+Name: vv
+Marks: [90, 91, 99]
+Average Marks: 93.33333333333333
+
+Roll No: 102
+Name: dd
+Marks: [90, 96, 91]
+Average Marks: 92.33333333333333
+
+Roll No: 103
+Name: dv
+Marks: [90, 95, 94]
+Average Marks: 93.0
+
